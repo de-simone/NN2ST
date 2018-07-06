@@ -16,5 +16,4 @@ The code can be easily adapted to input data of any dimension from external file
 
 
 ## Citation
-
 If you use the package, please cite the original paper http://arxiv.org/abs/1801.XXXX
