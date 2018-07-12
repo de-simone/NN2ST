@@ -306,11 +306,11 @@ def main():
     
     # Compute Test Statistic and p-value
     K=5
-    Nperm=200
+    Nperm=100
 
     HT = HypothesisTest(X_benchmark, X_trial, K=K, n_perm=Nperm)
 
-    print("TS (K={:d})  = {}\n".format(K, HT.TestStatistic(X_benchmark, X_trial)) )
+    print("TS_obs (K={:d})  = {:.5f}\n".format(K, HT.TestStatistic(X_benchmark, X_trial)) )
 
 
     HT.compute_pvalue()
@@ -327,4 +327,5 @@ def main():
 #-----------------------------------------------------------------------------#
 if __name__ == '__main__':
     main()
+    print("")
 #*****************************************************************************#
