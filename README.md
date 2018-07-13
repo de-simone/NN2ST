@@ -8,13 +8,11 @@ using the method of density ratio estimation with Nearest Neighbors.
 
 The source code is fully contained in the file NN2ST.py.
 
-A stand-alone jupyter notebook NN2ST.ipynb is also provided, which allows
-to get started quickly.
-
 The default data are synthethic random samples generated from 2-dimensional gaussians.
+
 The code can be easily adapted to input data of any dimension from external files.
 
 
 ## Citation
 
-If you use this package, or parts of it, please cite the original paper http://arxiv.org/abs/1801.XXXX
+If you use this package, or parts of it, please cite the original paper http://arxiv.org/abs/1807.XXXX
