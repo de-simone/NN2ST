@@ -1,7 +1,7 @@
 # NN2ST
 Two-Sample Test with Nearest Neighbors Density Ratio Estimation
 
-NN2ST is a Python code to perform Two-Sample (a.k.a. Homogeneity) test of two samples
+NN2ST is a Python code to perform Two-Sample (a.k.a. Homogeneity) test of two data samples
 using the method of density ratio estimation with Nearest Neighbors.
 
 ## Get Started
