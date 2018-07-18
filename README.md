@@ -15,4 +15,4 @@ The code can be easily adapted to input data of any dimension from external file
 
 ## Citation
 
-If you use this package, or parts of it, please cite the original paper http://arxiv.org/abs/1807.XXXX
+If you use this package, or parts of it, please cite the original paper http://arxiv.org/abs/1807.06038
