@@ -8,6 +8,8 @@ using the method of density ratio estimation with Nearest Neighbors.
 
 The source code is fully contained in the file NN2ST.py.
 
+To run the code, simply type 'python NN2ST.py' from command line.
+
 The default data are synthethic random samples generated from 2-dimensional gaussians.
 
 The code can be easily adapted to input data of any dimension from external files.
